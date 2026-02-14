@@ -1,6 +1,6 @@
 cask "claude-token-cat" do
-  version "1.1.0"
-  sha256 "fea6f48d2d9e84d5192bceb11aed9155ca7289f1d3a569dbc24098a3c675f8b4"
+  version "1.1.1"
+  sha256 "226e603f9fa53a2bdbf506af1f37c0aec803cbc7615bc568fa160217252f165c"
 
   url "https://github.com/lylaminju/claude-token-cat/releases/download/v#{version}/ClaudeTokenCat.dmg"
   name "Claude Token Cat"
